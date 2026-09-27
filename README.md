@@ -16,11 +16,11 @@ A Flutter mobile application featuring a clean and modern Login and Registration
 
 ### Login Screen
 
-_Add login screen screenshot here._
+![Login Screen](Screenshots/Login%20Page.png)
 
 ### Registration Screen
 
-_Add registration screen screenshot here._
+![Registration Screen](Screenshots/Registration%20Page.png)
 
 ## Technologies
 
