@@ -1,17 +1,50 @@
-# mobile_app
+# LUMA – Login & Registration UI
 
-A new Flutter project.
+A Flutter mobile application featuring a clean and modern Login and Registration interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Login interface
+- Email and password fields
+- Show/hide password
+- Forgot Password option
+- Registration interface
+- Full name, email, password and confirm password fields
+- Navigation between Login and Registration screens
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Login Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_Add login screen screenshot here._
+
+### Registration Screen
+
+_Add registration screen screenshot here._
+
+## Technologies
+
+- Flutter
+- Dart
+- Android Studio
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Run `flutter pub get`.
+4. Start an Android emulator or connect a device.
+5. Run the application using `flutter run`.
+
+## Project Structure
+
+```text
+mobile_app/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── test/
+├── web/
+├── pubspec.yaml
+└── README.md
