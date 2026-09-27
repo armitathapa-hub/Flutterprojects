@@ -22,7 +22,7 @@ A Flutter mobile application featuring a clean and modern Login and Registration
 
 ![Registration Screen](Screenshots/Registration%20Page.png)
 
-## Technologies
+## Technologies Used
 
 - Flutter
 - Dart
